@@ -11,7 +11,7 @@ I think understanding the human experience is essential for creating useful and 
   <img align="center" src="https://img.shields.io/badge/Linkedin-Maurilio%20Souza-%23121214" alt="linkedin"/>
 </a>
 
-## 🛠 &nbsp;My Stack
+## 💻 &nbsp;My Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
