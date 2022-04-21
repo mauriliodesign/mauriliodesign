@@ -2,8 +2,6 @@
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/34256490/164503526-25104e5e-5d08-47ef-9c8a-e90cfb5f19a7.png"/>
 <h1 align="left">👋 Hey you! I'm Maurilio </h1>
 
-I am Maurilio, UI Developer, burger lover, beloved daddy and my dog is called 'Figma'. Passionate about building interfaces that solving problems.
-
 I think understanding the human experience is essential for creating useful and effective products that make life easier. I enjoy using my skill-set to empower people to accomplish their goals. Knowledge and understanding of a wide range of design software and development technologies, including Figma, CSS, SASS, Javascript, OutSystems, React, as well as other document-related and media-related software.
 <br><br>
 
