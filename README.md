@@ -10,6 +10,7 @@ I think understanding the human experience is essential for creating useful and 
 <a href="https://linkedin.com/in/1mauriliosouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-Maurilio%20Souza-%23121214" alt="linkedin"/>
 </a>
+<br><br>
 
 ## 💻 &nbsp;My Stack
 
